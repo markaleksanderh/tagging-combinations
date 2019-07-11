@@ -1,0 +1,750 @@
+ID,Category,Sub Category,Tag
+1,discrimination,,
+2,discrimination,racist language,
+3,discrimination,racist language,nigger
+4,discrimination,racist language,negro
+5,discrimination,racist language,jap
+6,discrimination,racist language,coloured
+7,discrimination,racist language,monkey
+8,discrimination,racist language,paki
+9,discrimination,racist language,cracker
+10,discrimination,racist language,yid
+11,discrimination,racist language,kike
+12,discrimination,racist language,chink
+13,discrimination,racist language,darkie
+14,discrimination,racist language,jungle bunny
+15,discrimination,racist language,slant-eye
+16,discrimination,racist language,spook
+17,discrimination,racist language,pikey
+18,discrimination,racist language,gypo
+19,discrimination,racist language,wog
+20,discrimination,discriminatory language,
+21,discrimination,discriminatory language,homo
+22,discrimination,discriminatory language,gaylord
+23,discrimination,discriminatory language,fairy
+24,discrimination,discriminatory language,faggot
+25,discrimination,discriminatory language,dyke
+26,discrimination,discriminatory language,tranny
+27,discrimination,discriminatory language,queer
+28,discrimination,discriminatory language,bender
+29,discrimination,discriminatory language,batty boy
+30,discrimination,discriminatory language,fag hag
+31,discrimination,discriminatory language,pansy
+32,discrimination,discriminatory language,poof
+33,discrimination,discriminatory language,poofter
+34,discrimination,discriminatory language,rug muncher
+35,discrimination,discriminatory language,queen
+36,discrimination,discriminatory language,shirtlifter
+37,discrimination,discriminatory language,fag
+38,discrimination,discriminatory language,nancy
+39,discrimination,discriminatory language,fruit
+40,discrimination,discriminatory language,muff diver
+41,discrimination,discriminatory language,mong
+42,discrimination,discriminatory language,retard
+43,discrimination,discriminatory language,tard
+44,discrimination,discriminatory language,spaz
+45,discrimination,discriminatory language,spastic
+46,language,,
+47,language,very mild bad language,
+48,language,very mild bad language,jerk
+49,language,very mild bad language,damn
+50,language,very mild bad language,God
+51,language,very mild bad language,hell
+52,language,very mild bad language,Jesus
+53,language,very mild bad language,Christ
+54,language,very mild bad language,butt
+55,language,very mild bad language,freakin
+56,language,very mild bad language,screw
+57,language,mild bad language,
+58,language,mild bad language,arse
+59,language,mild bad language,arsehole
+60,language,mild bad language,shit
+61,language,mild bad language,bullshit
+62,language,mild bad language,bugger
+63,language,mild bad language,bloody
+64,language,mild bad language,bloody hell
+65,language,mild bad language,crap
+66,language,mild bad language,dick
+67,language,mild bad language,dickhead
+68,language,mild bad language,piss
+69,language,mild bad language,bollocks
+70,language,mild bad language,git
+71,language,mild bad language,sod
+72,language,mild bad language,bastard
+73,language,mild bad language,son of a bitch
+74,language,mild bad language,tart
+75,language,mild bad language,bitch
+76,language,mild bad language,slag
+77,language,mild bad language,slut
+78,language,mild bad language,whore
+79,language,mild bad language,screw
+80,language,mild bad language,frig
+81,language,mild bad language,knob
+82,language,mild bad language,tosser
+83,language,mild bad language,ass
+84,language,mild bad language,asshole
+85,language,mild bad language,saala
+86,language,moderate bad language,
+87,language,moderate bad language,prick
+88,language,moderate bad language,twat
+89,language,moderate bad language,wanker
+90,language,moderate bad language,bitch
+91,language,moderate bad language,slut
+92,language,moderate bad language,slag
+93,language,moderate bad language,whore
+94,language,moderate bad language,feck
+95,language,moderate bad language,lund
+96,language,moderate bad language,chutiya
+97,language,moderate bad language,choot
+98,language,strong language,
+99,language,strong language,fuck
+100,language,strong language,cocksucker
+101,language,strong language,motherfucker
+102,language,strong language,bumbaclot
+103,language,strong language,bloodclaat
+104,language,strong language,rasclat
+105,language,strong language,behenchod
+106,language,strong language,chod
+107,language,strong language,chodna
+108,language,strong language,maderchod
+109,language,very strong language,
+110,language,very strong language,cunt
+111,language,very strong language,phuddi
+112,language,rude gesture,
+113,language,rude gesture,middle finger
+114,language,rude gesture,V sign
+115,language,rude gesture,wanker gesture
+116,language,rude gesture,blow job gesture
+117,language,rude gesture,cunnilingus gesture
+118,language,rude gesture,dickhead gesture
+119,language,rude gesture,penetration gesture
+120,language,rude gesture,thrusting gesture
+121,drugs,,
+122,drugs,drug misuse,
+123,drugs,drug misuse,marijuana
+124,drugs,drug misuse,heroin
+125,drugs,drug misuse,cocaine
+126,drugs,drug misuse,ecstasy
+127,drugs,drug misuse,magic mushrooms
+128,drugs,drug misuse,LSD
+129,drugs,drug misuse,mescaline
+130,drugs,drug misuse,crystal meth
+131,drugs,drug misuse,ketamine
+132,drugs,drug misuse,GBH
+133,drugs,drug misuse,amphetamines
+134,drugs,drug misuse,quaaludes
+135,drugs,drug misuse,opium
+136,drugs,drug misuse,pills
+137,drugs,drug misuse,snort
+138,drugs,drug misuse,smoking
+139,drugs,drug misuse,inject
+140,drugs,drug misuse,ingest
+141,drugs,drug misuse,rolling
+142,drugs,prescription drug misuse,
+143,drugs,prescription drug misuse,anti-depressants
+144,drugs,prescription drug misuse,valium
+145,drugs,prescription drug misuse,xanax
+146,drugs,prescription drug misuse,pills
+147,drugs,prescription drug misuse,swallow
+148,drugs,drug references,
+149,drugs,drug references,needle
+150,drugs,drug references,bong
+151,drugs,drug references,tourniquet
+152,drugs,drug references,spoon
+153,drugs,drug references,lighter
+154,drugs,drug references,foil
+155,drugs,drug references,racking
+156,drugs,drug references,lines of powder
+157,drugs,drug references,bags of powder
+158,drugs,drug references,addiction
+159,drugs,drug references,withdrawal
+160,drugs,drug references,drug dealer
+161,drugs,drug references,dealing
+162,drugs,drug references,selling
+163,drugs,drug references,addict
+164,drugs,drug references,overdose
+165,drugs,drug references,drug preparation
+166,drugs,solvent abuse,
+167,drugs,solvent abuse,glue
+168,drugs,solvent abuse,aerosol
+169,drugs,solvent abuse,huff
+170,violence,,
+171,violence,injury detail,
+172,violence,injury detail,blood
+173,violence,injury detail,spray
+174,violence,injury detail,spurt
+175,violence,injury detail,pool of blood
+176,violence,injury detail,wound
+177,violence,injury detail,gory
+178,violence,injury detail,bone
+179,violence,injury detail,intestines
+180,violence,injury detail,brain matter
+181,violence,injury detail,skull fragments
+182,violence,injury detail,bruise
+183,violence,injury detail,cuts
+184,violence,injury detail,organs
+185,violence,injury detail,dead body
+186,violence,injury detail,crime scene detail
+187,violence,injury detail,fantastical blood
+188,violence,injury detail,head explosion
+189,violence,injury detail,medical detail
+190,violence,injury detail,blood on body
+191,violence,injury detail,bloody clothes
+192,violence,injury detail,emphasis on blood and injury
+193,violence,injury detail,contorted body
+194,violence,injury detail,severed limb
+195,violence,injury detail,decapitated head
+196,nudity,,
+197,nudity,nudity,
+198,nudity,nudity,breast
+199,nudity,nudity,buttock
+200,nudity,nudity,genital
+201,nudity,nudity,penis
+202,nudity,nudity,flaccid
+203,nudity,nudity,erection
+204,nudity,nudity,testicles
+205,nudity,nudity,chest
+206,nudity,nudity,pubic hair
+207,nudity,nudity,pubis
+208,nudity,nudity,labia
+209,nudity,nudity,anal
+210,nudity,nudity,nipple
+211,nudity,nudity,shaft
+212,nudity,nudity,natural
+213,nudity,nudity,sexualised
+214,nudity,nudity,child
+215,nudity,nudity,adult
+216,nudity,nudity,teenager
+217,sex,,
+218,sex,sex,
+219,sex,sex,breast
+220,sex,sex,buttock
+221,sex,sex,genital
+222,sex,sex,penis
+223,sex,sex,flaccid
+224,sex,sex,erection
+225,sex,sex,testicles
+226,sex,sex,chest
+227,sex,sex,pubic hair
+228,sex,sex,pubis
+229,sex,sex,labia
+230,sex,sex,anal sex
+231,sex,sex,nipple
+232,sex,sex,shaft
+233,sex,sex,thrusting
+234,sex,sex,riding
+235,sex,sex,rear entry
+236,sex,sex,rough
+237,sex,sex,oral sex
+238,sex,sex,foreplay
+239,sex,sex,massage
+240,sex,sex,digital penetration
+241,sex,sex,orgasm
+242,sex,sex,missionary
+243,sex,sex,semen
+244,sex,sex,multiple sexual positions
+245,sex,sex,sexual moaning
+246,sex,sex,group sex
+247,sex,sex,clothed
+248,sex,sex,kiss
+249,sex,sex,lick
+250,sex,sex,straddles
+251,sex,sex,urolagnia
+252,sex,sex,wet chin
+253,sex,sex,BDSM
+254,sex,sex,role play
+255,sex,sex,fetish
+256,sex,sex,auto-erotic asphyxiation
+257,sex,sex,bondage
+258,sex,sex,spank
+259,sex,sex,whips
+260,sex,sex,handcuffs
+261,sex,sex,sex toy
+262,sex,sex,vibrator
+263,sex,sex,masturbate
+264,sexual violence and sexual threat,,
+265,sexual violence and sexual threat,scene of sexual violence,
+266,sexual violence and sexual threat,scene of sexual violence,rape
+267,sexual violence and sexual threat,scene of sexual violence,clothed
+268,sexual violence and sexual threat,scene of sexual violence,buttock
+269,sexual violence and sexual threat,scene of sexual violence,breast
+270,sexual violence and sexual threat,scene of sexual violence,distress
+271,sexual violence and sexual threat,scene of sexual violence,thrusting
+272,sexual violence and sexual threat,scene of sexual violence,scream
+273,sexual violence and sexual threat,scene of sexual violence,unconscious
+274,sexual violence and sexual threat,scene of sexual violence,spits in mouth
+275,sexual violence and sexual threat,scene of sexual violence,hand over mouth
+276,sexual violence and sexual threat,scene of sexual violence,torn clothes
+277,sexual violence and sexual threat,scene of sexual violence,underwear removed
+278,sexual violence and sexual threat,scene of sexual violence,trousers unbuckled
+279,sexual violence and sexual threat,scene of sexual violence,gang rape
+280,sexual violence and sexual threat,sexual threat,
+281,sexual violence and sexual threat,sexual threat,pinned against wall
+282,sexual violence and sexual threat,sexual threat,hand over mouth
+283,sexual violence and sexual threat,sexual threat,hands on body
+284,sexual violence and sexual threat,sexual threat,inappropriate language
+285,sexual violence and sexual threat,sexual threat,verbal threat of rape
+286,sexual violence and sexual threat,sexual threat,person grabs at clothes
+287,sexual violence and sexual threat,sexual threat,clothes ripped
+288,sexual violence and sexual threat,sexual threat,breast nudity
+289,sexual violence and sexual threat,sexual threat,buttock nudity
+290,sexual violence and sexual threat,sexual threat,pinned to floor
+291,sexual violence and sexual threat,sexual threat,emphasis on victim's fear/distress
+292,sexual violence and sexual threat,sexual threat,emphasis on victim's powerlessness
+293,sexual violence and sexual threat,sexual threat,invasion of personal space
+294,sexual violence and sexual threat,sexual threat,coerced to strip
+295,sexual violence and sexual threat,sexual threat,coerced to perform sexual favours
+296,sexual violence and sexual threat,sexual threat,sexual coercion
+297,sexual violence and sexual threat,child sexual abuse,
+298,sexual violence and sexual threat,child sexual abuse,references to grooming
+299,sexual violence and sexual threat,child sexual abuse,images of child abuse (simulated non poca)
+300,sexual violence and sexual threat,child sexual abuse,paedophile
+301,sexual violence and sexual threat,sexualised violence,
+302,sexual violence and sexual threat,sexualised violence,genital mutilation
+303,sexual violence and sexual threat,sexualised violence,breast mutilation
+304,sexual violence and sexual threat,sexualised violence,gun in mouth
+305,sexual violence and sexual threat,sexualised violence,weapon toyed down body
+306,sexual violence and sexual threat,sexualised violence,castrate
+307,dangerous behaviour,,
+308,dangerous behaviour,dangerous behaviour,
+309,dangerous behaviour,dangerous behaviour,child
+310,dangerous behaviour,dangerous behaviour,fridge
+311,dangerous behaviour,dangerous behaviour,washing machine
+312,dangerous behaviour,dangerous behaviour,tumble dryer
+313,dangerous behaviour,dangerous behaviour,electricity
+314,dangerous behaviour,dangerous behaviour,water
+315,dangerous behaviour,dangerous behaviour,train tracks
+316,dangerous behaviour,dangerous behaviour,oven
+317,dangerous behaviour,dangerous behaviour,play
+318,dangerous behaviour,dangerous behaviour,fireworks
+319,dangerous behaviour,dangerous behaviour,criminal behaviour
+320,dangerous behaviour,dangerous behaviour,picking locks
+321,dangerous behaviour,dangerous behaviour,bomb
+322,dangerous behaviour,dangerous behaviour,wires
+323,dangerous behaviour,dangerous behaviour,anti social behaviour
+324,dangerous behaviour,dangerous behaviour,graffiti
+325,dangerous behaviour,dangerous behaviour,spitting
+326,dangerous behaviour,self-harm,
+327,dangerous behaviour,self-harm,cut
+328,dangerous behaviour,self-harm,burn
+329,dangerous behaviour,self-harm,hit
+330,dangerous behaviour,self-harm,hair pulling
+331,dangerous behaviour,self-harm,scratch
+332,dangerous behaviour,self-harm,skin
+333,dangerous behaviour,self-harm,razor
+334,dangerous behaviour,self-harm,glass
+335,dangerous behaviour,self-harm,horizontal
+336,dangerous behaviour,self-harm,vertical
+337,dangerous behaviour,self-harm,arm
+338,dangerous behaviour,self-harm,leg
+339,dangerous behaviour,self-harm,teenager
+340,dangerous behaviour,self-harm,adult
+341,dangerous behaviour,self-harm,anorexia
+342,dangerous behaviour,self-harm,bulimia
+343,dangerous behaviour,self-harm,vomit
+344,dangerous behaviour,suicide,
+345,dangerous behaviour,suicide,hanging
+346,dangerous behaviour,suicide,noose preparation
+347,dangerous behaviour,suicide,noose around head
+348,dangerous behaviour,suicide,rope
+349,dangerous behaviour,suicide,dangling legs
+350,dangerous behaviour,suicide,body drops
+351,dangerous behaviour,suicide,body spasms
+352,dangerous behaviour,suicide,choking
+353,dangerous behaviour,suicide,emphasis on pain or suffering
+354,dangerous behaviour,suicide,belt
+355,dangerous behaviour,suicide,horizontal wrist cut
+356,dangerous behaviour,suicide,vertical wrist cut
+357,dangerous behaviour,suicide,drug overdose
+358,dangerous behaviour,suicide,unconscious
+359,dangerous behaviour,suicide,vomit
+360,dangerous behaviour,suicide,asphyxiation
+361,dangerous behaviour,suicide,bag over head
+362,dangerous behaviour,suicide,helium
+363,dangerous behaviour,suicide,barbecue
+364,dangerous behaviour,suicide,carbon monoxide inhalation
+365,dangerous behaviour,suicide,gunshot to head
+366,dangerous behaviour,suicide,jumps to death
+367,qualifier,,
+368,qualifier,very mild,
+369,qualifier,mild,
+370,qualifier,moderate,
+371,qualifier,strong,
+372,qualifier,very strong,
+373,descriptor,,
+374,descriptor,impressionistic,
+375,descriptor,masked,
+376,descriptor,glamorised,
+377,descriptor,promotional,
+378,descriptor,endorsed,
+379,descriptor,graphic,
+380,descriptor,gratuitous,
+381,descriptor,emphasis,
+382,descriptor,brief,
+383,descriptor,comic,
+384,descriptor,fantastical,
+385,descriptor,historical,
+386,descriptor,narrative justification,
+387,descriptor,discreet,
+388,descriptor,prolonged,
+389,descriptor,sustained,
+390,descriptor,animated,
+391,descriptor,wholly unrealistic,
+392,descriptor,occasional,
+393,descriptor,infrequent,
+394,descriptor,clearly disapproved of,
+395,descriptor,intense,
+396,descriptor,aggressive,
+397,descriptor,directed,
+398,descriptor,disturbing,
+399,descriptor,dwell on detail,
+400,descriptor,romanticised,
+401,descriptor,innocuous,
+402,descriptor,explicit,
+403,descriptor,implied,
+404,descriptor,detailed,
+405,descriptor,aversive,
+406,descriptor,unsettling,
+407,descriptor,dated,
+408,descriptor,focus,
+409,descriptor,instructional detail,
+410,descriptor,anti-drug message,
+411,threat and horror,,
+412,threat and horror,horror,
+413,threat and horror,horror,jump scare
+414,threat and horror,horror,menacing tone
+415,threat and horror,horror,suspense
+416,threat and horror,horror,demonic entity
+417,threat and horror,horror,unsettling scene
+418,threat and horror,horror,ominous sounds
+419,threat and horror,horror,entity appears behind person without their knowledge
+420,threat and horror,horror,unsourced sounds
+421,threat and horror,horror,object moves independently
+422,threat and horror,horror,possession
+423,threat and horror,horror,chased
+424,threat and horror,horror,stalked
+425,threat and horror,horror,killer
+426,threat and horror,horror,monster
+427,threat and horror,horror,terrorise
+428,threat and horror,horror,scream
+429,threat and horror,horror,body dragged across floor
+430,threat and horror,horror,zombie
+431,threat and horror,horror,victim in distress
+432,threat and horror,horror,entity appears in shadows
+433,threat and horror,threat,
+434,threat and horror,threat,gun threat
+435,threat and horror,threat,knife threat
+436,threat and horror,threat,natural disaster
+437,threat and horror,threat,kidnapped
+438,threat and horror,threat,restrained
+439,threat and horror,threat,gagged
+440,threat and horror,threat,abducted
+441,threat and horror,threat,terrorist attack
+442,threat and horror,threat,chaos in aftermath
+443,threat and horror,threat,characters in danger
+444,threat and horror,threat,scary scene
+445,threat and horror,threat,vehicle crashes
+446,violence,violence,
+447,violence,violence,gun
+448,violence,violence,points gun
+449,violence,violence,loads gun
+450,violence,violence,shoots
+451,violence,violence,shoot out
+452,violence,violence,punch
+453,violence,violence,kick
+454,violence,violence,head butt
+455,violence,violence,hit over head
+456,violence,violence,elbowed
+457,violence,violence,machine gun
+458,violence,violence,knife
+459,violence,violence,extracts blade
+460,violence,violence,throws blade
+461,violence,violence,thrown through window
+462,violence,violence,explosion
+463,violence,violence,grenade
+464,violence,violence,blood spurt
+465,violence,violence,arm break
+466,violence,violence,leg break
+467,violence,violence,stabs
+468,violence,violence,blood in aftermath of violence
+469,violence,violence,car chase
+470,violence,violence,bomb
+471,violence,violence,body slam
+472,violence,violence,person hit by car
+473,violence,violence,person's head submerged under water
+474,violence,violence,person jumps off building
+475,violence,violence,chase on foot
+476,violence,violence,slap
+477,violence,violence,head slammed on table
+478,violence,violence,eye gouging
+479,violence,violence,person on fire
+480,violence,violence,slapstick
+481,violence,violence,strangle
+482,violence,violence,bag over head
+483,violence,violence,suffocates
+484,violence,violence,bare knuckle fight
+485,violence,violence,knocked unconscious
+486,violence,violence,drown
+487,violence,violence,beaten
+488,violence,violence,gang attack
+489,violence,violence,bow and arrow
+490,violence,violence,sword fight
+491,violence,violence,improvised weapon
+492,violence,violence,molotov cocktail
+493,violence,violence,spiked mace
+494,violence,violence,garrotte
+495,violence,violence,torture
+496,violence,violence,hammer
+497,violence,violence,throat slashing
+498,violence,violence,behead
+499,violence,violence,bottles
+500,violence,war violence,
+501,violence,war violence,machine gun
+502,violence,war violence,trenches
+503,violence,war violence,soldiers
+504,violence,war violence,gas
+505,violence,war violence,gas mask
+506,violence,war violence,tanks
+507,violence,war violence,submarine
+508,violence,war violence,ship
+509,violence,war violence,battle field
+510,violence,war violence,bayonet
+511,violence,war violence,enemy fire
+512,violence,war violence,grenade
+513,violence,war violence,bomb
+514,violence,war violence,over the top
+515,violence,war violence,flamethrower
+516,violence,fantasy violence,
+517,violence,fantasy violence,magic spell
+518,violence,fantasy violence,magic powers
+519,violence,fantasy violence,fantastical weapon
+520,violence,fantasy violence,fantastical blood
+521,violence,fantasy violence,aerial dogfights
+522,violence,fantasy violence,superhero
+523,violence,fantasy violence,laser guns
+524,violence,fantasy violence,fantastical creature
+525,violence,fantasy violence,robots
+526,violence,fantasy violence,aliens
+527,violence,scene of torture,
+528,violence,scene of torture,strapped to chair
+529,violence,scene of torture,bag over head
+530,violence,scene of torture,waterboarded
+531,violence,scene of torture,finger nails extracted
+532,violence,scene of torture,skin burnt
+533,violence,scene of torture,person hanging by the wrist
+534,violence,scene of torture,psychological torture
+535,violence,scene of torture,skin flayed
+536,violence,scene of torture,electrocuted
+537,violence,scene of torture,fingers broken
+538,violence,images of real dead bodies,
+539,violence,images of real dead bodies,corpse
+540,violence,images of real dead bodies,decomposed
+541,violence,images of real dead bodies,piles of bodies
+542,violence,images of real dead bodies,dead body lying in blood
+543,violence,images of real dead bodies,holocaust images
+544,violence,images of real dead bodies,malnourished dead bodies
+545,alcohol and tobacco,,
+546,alcohol and tobacco,tobacco,
+547,alcohol and tobacco,tobacco,smoking
+548,alcohol and tobacco,tobacco,cigarette
+549,alcohol and tobacco,tobacco,blows smoke
+550,alcohol and tobacco,tobacco,vape
+551,alcohol and tobacco,tobacco,hookah
+552,alcohol and tobacco,tobacco,shisha
+553,alcohol and tobacco,tobacco,cigar
+554,alcohol and tobacco,alcohol,
+555,alcohol and tobacco,alcohol,alcohol consumption
+556,alcohol and tobacco,alcohol,binge drinking
+557,alcohol and tobacco,alcohol,drunk
+558,alcohol and tobacco,alcohol,teen partying
+559,alcohol and tobacco,alcohol,butt chugging
+560,language,mild bad language,frickin
+561,drugs,drug misuse,joint
+562,drugs,drug misuse,drug misuse
+563,drugs,drug references,joint
+564,drugs,drug references,drug deal
+565,drugs,drug references,drug reference
+566,sex,sex reference,
+567,sex,sex reference,anal sex reference
+568,sex,sex reference,cunnilingus reference
+569,sex,sex reference,fellatio reference
+570,sex,sex reference,beastiality reference
+571,sex,sex reference,BDSM reference
+572,sex,sex reference,pornography reference
+573,dangerous behaviour,self-harm,self-harm reference
+574,dangerous behaviour,suicide,suicide reference
+575,descriptor,undetailed,
+576,descriptor,off-screen,
+577,descriptor,below frame,
+578,descriptor,clearly disapproved of,
+579,descriptor,vigorous,
+580,descriptor,sexualised,
+581,descriptor,extreme close up,
+582,descriptor,close up,
+583,descriptor,medium shot,
+584,descriptor,long shot,
+585,descriptor,slow motion,
+586,general,,
+587,general,general,
+588,general,general,man
+589,general,general,woman
+590,general,general,girl
+591,general,general,boy
+592,general,general,teenage boy
+593,general,general,teenage girl
+594,general,general,child
+595,general,general,baby
+596,discrimination,discriminatory language,gay
+597,discrimination,discriminatory language,bent
+598,language,moderate bad language,pussy
+599,sex,sex reference,sexting reference
+600,sex,sex reference,dick pic
+601,sex,sex reference,sexual fetish reference
+602,sex,sex reference,choking reference
+603,sex,sex reference,urolagnia reference
+604,sex,sex reference,coprophilia reference
+605,sex,sex reference,brothel
+606,sex,sex reference,sex worker
+607,sex,sex reference,pimp
+608,sex,sex reference,madame
+609,sex,sex reference,innuendo
+610,sex,sex reference,sex reference
+611,sex,sex reference,masturbation reference
+612,sex,sex reference,upskirt shot
+613,sex,sex reference,close up on cleavage
+614,sex,sex reference,virginity reference
+615,sex,sex reference,sight of semen
+616,sex,sex reference,dildo
+617,sex,sex reference,handcuffs
+618,sex,sex reference,lingerie
+619,sex,sex reference,porn magazine
+620,sex,sex reference,porn image
+621,sex,sex reference,porn film
+622,sex,sex reference,thrusting gesture
+623,sex,sex reference,fellatio gesture
+624,sex,sex reference,cunnilingus gesture
+625,sex,sex reference,ejaculation reference
+626,sex,sex reference,threesome reference
+627,sex,sex reference,orgy reference
+628,sex,sex reference,sex shop
+629,sex,sex reference,strip club
+630,sex,sex reference,lap dance
+631,sex,sex reference,stripper
+632,sex,sex reference,shag
+633,sex,sex reference,hooker
+634,sex,sex reference,boner
+635,sex,sex reference,tentpole gag
+636,sex,sex reference,spunk
+637,sex,sex reference,jizz
+638,sex,sex reference,come
+639,sex,sex reference,lube
+640,sex,sex reference,fingering reference
+641,sex,sex reference,pegging reference
+642,sex,sex reference,explicit image
+643,sex,sex reference,wank
+644,sex,sex reference,fisting reference
+645,sex,sex reference,sex dungeon
+646,sex,sex reference,face sitting reference
+647,sex,sex reference,wet
+648,descriptor,crude,
+649,descriptor,frequent,
+650,threat and horror,horror,supernatural threat
+651,threat and horror,threat,threat
+652,flashing/flicking lights,,
+653,flashing/flicking lights,flashing/flicking lights,
+654,flashing/flicking lights,flashing/flicking lights,flashing/flicking lights
+655,digital onscreen graphic,,
+656,digital onscreen graphic,digital onscreen graphic,
+657,digital onscreen graphic,digital onscreen graphic,digital onscreen graphic
+658,descriptor,stylised,
+659,general,general,hero,
+660,general,general,villain,
+661,general,general,person,
+662,general,general,animal,
+663,discrimination,discriminatory language,half-caste
+664,discrimination,discriminatory language,half-breed
+665,dangerous behaviour,suicide,scene of suicide
+666,dangerous behaviour,suicide,suicide attempt
+667,sex,sex reference,sleeping with reference
+668,sex,sex reference,slept with reference
+669,sex,sex reference,references to adultery
+670,animals,,
+671,animals,scenes of animal killing,
+672,animals,scenes of animal killing,scenes of animal killing
+673,animals,scenes of animal fighting,
+674,animals,scenes of animal fighting,scenes of animal fighting
+675,animals,scenes of animal butchery,
+676,animals,scenes of animal butchery,scenes of animal butchery
+677,animals,scenes of animal slaughter,
+678,animals,scenes of animal slaughter,scenes of animal slaughter
+679,animals,dead animals,
+680,animals,dead animals,dead animals
+681,animals,animal cruelty ,
+682,animals,animal cruelty ,animal cruelty
+683,animals,animal cruelty ,horse fall
+684,animals,animal cruelty ,cock-fight
+685,general,pregnant woman,
+686,descriptor,black and white,
+687,descriptor,darkly lit,
+688,violence,violence,bite
+689,violence,violence,hair pull
+690,violence,violence,riot
+691,violence,violence,brawl
+692,violence,violence,fist fight
+693,violence,violence,choke
+694,violence,violence,strangle
+695,discrimination,discriminatory behaviour,
+696,discrimination,discriminatory behaviour,sexist behaviour
+697,discrimination,discriminatory behaviour,homophobic behaviour
+698,discrimination,discriminatory behaviour,transphobic behaviour
+699,discrimination,discriminatory behaviour,references to racism
+700,discrimination,discriminatory behaviour,racist behaviour
+701,sex,sex reference,feeling horny reference
+702,sex,sex reference,masturbation reference
+703,sex,sex reference,asphyxiation reference
+704,sex,sex reference,dirty talk
+705,sex,sex reference,phone sex
+706,sex,sex,establishing sex
+707,theme,,
+708,theme,bereavement theme,
+709,theme,bereavement theme,bereavement theme
+710,theme,bereavement theme,funeral scene
+711,theme,bereavement theme,people grieving
+712,theme,bereavement theme,child death
+713,theme,bereavement theme,miscarriage
+714,theme,bereavement theme,references to miscarriage
+715,theme,bereavement theme,still born baby
+716,theme,bullying theme,
+717,theme,bullying theme,bullying theme
+718,theme,bullying theme,references to bullying
+719,theme,bullying theme,cyber bullying
+720,theme,bullying theme,name calling
+721,theme,bullying theme,person crying
+722,theme,bullying theme,bullying scene
+723,theme,eating disorder theme,
+724,theme,eating disorder theme,eating disorder theme
+725,theme,eating disorder theme,anorexia theme
+726,theme,eating disorder theme,anorexia references
+727,theme,eating disorder theme,counting calories
+728,theme,eating disorder theme,pro-ana website
+729,theme,eating disorder theme,pro-ana references
+730,theme,eating disorder theme,bulimia references
+731,theme,eating disorder theme,weigh-in
+732,theme,eating disorder theme,references to weight
+733,theme,eating disorder theme,vomit
+734,theme,eating disorder theme,food addiction
+735,theme,eating disorder theme,force feeding
+736,theme,eating disorder theme,exercise
+737,theme,upsetting scenes,
+738,theme,upsetting scenes,upsetting scenes
+739,theme,references to illness,
+740,theme,references to illness,references to mental health
+741,theme,references to mental health,
+742,theme,references to mental health,references to mental health
+743,rude humour,,
+744,rude humour,rude humour,
+745,rude humour,rude humour,rude humour
+746,rude humour,rude humour,fart
+747,rude humour,rude humour,burp
+748,rude humour,rude humour,vomit
+749,animals,animal cruelty,reference to animal cruelty
